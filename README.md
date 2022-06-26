@@ -13,7 +13,7 @@ I am Manasvi Prakash, a Computer Engineer Student, I am well inspired by coding 
 
 - 🤝 I’m looking for help with **Data structures and Algorithms**
 
-- 📫 How to reach me **@manasviprakash01@gmail.com http://www.linkedin.com/in/manasviprakash**
+- 📫 How to reach me **manasviprakash01@gmail.com && http://www.linkedin.com/in/manasviprakash**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
