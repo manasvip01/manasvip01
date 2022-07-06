@@ -7,13 +7,13 @@
 <h3 align="center">I am Computer Engineer, who is passionate about learning new skills.</h3>
 I am Manasvi Prakash, a Computer Engineer Student, I am well inspired by coding  structures and logics and hence strive to code in a better and efficient way each time in any of the assigned projects. I am a keen learner and try to learn something new everyday.
 
-- 🌱 I’m currently learning **MERN Stack, Data structures and Algorithms**
+- 🌱 I’m currently learning <a align="center">**MERN Stack, Data structures and Algorithms**<a/>
 
 - 👯 I’m looking to collaborate on **Front-end as well as Backend Projects**
 
 - 🤝 I’m looking for help with **Data structures and Algorithms**
 
-- 📫 How to reach me **manasviprakash01@gmail.com && http://www.linkedin.com/in/manasviprakash**
+- 📫 How to reach me <a align="center">**manasviprakash01@gmail.com && http://www.linkedin.com/in/manasviprakash**<a/>
 
 <p align="left">
 </p>
