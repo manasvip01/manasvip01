@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm there Manasvi Prakash</h1>
+<h1 align="center">Hi 👋, I'm Manasvi Prakash</h1>
 
 <br />
 <img align="right" height="400px" alt="GIF" src="https://media.giphy.com/media/FspLvJQlQACXu/giphy.gif" />
