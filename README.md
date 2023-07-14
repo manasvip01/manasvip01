@@ -28,7 +28,3 @@ I am Manasvi Prakash, a Computer Engineer Student, I am well inspired by coding 
 <hr>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manasvip01&show_icons=true&locale=en&layout=compact" alt="manasvip01" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manasvip01&show_icons=true&locale=en" alt="manasvip01" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manasvip01&" alt="manasvip01" /></p>
